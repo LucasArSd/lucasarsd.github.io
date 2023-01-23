@@ -356,11 +356,3 @@ header{
 .mensaje_submit_activo{
     display: block;
 }
-
-/*
-.form_input:focus ~ .form_line, 
-.form_input:not(:placeholder-shown) ~ .form_line{
-    transform: scale(1);
-    background-color:#0072b1;
-}
-*/
