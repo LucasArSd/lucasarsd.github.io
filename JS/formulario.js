@@ -32,6 +32,7 @@ const validarFormulario = function(e){
         break;
         case "Asunto":
             validarCampo(expresiones.asunto, e.target,'asunto','line4');
+	break;
         case "Mensaje":
             validarCampo(expresiones.mensaje, e.target,'mensaje','line5');
         break;
